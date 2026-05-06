@@ -1,0 +1,5 @@
+=== IDS Log File ===
+192.168.1.1 -> 10.0.0.1 | TCP | Status: Normal
+192.168.1.2 -> 10.0.0.1 | UDP | Status: SERANGAN
+192.168.1.3 -> 10.0.0.2 | TCP | Status: SERANGAN
+[ALERT-HIGH] 10.0.0.5 -> 192.168.1.1 | Status: SERANGAN
